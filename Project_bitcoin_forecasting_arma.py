@@ -23,7 +23,7 @@ This dataset provides the history of daily prices of Bitcoin. The data starts fr
 """
 
 #@title Download Dataset
-!wget -qq !wget -qq https://cdn.iisc.talentsprint.com/CDS/MiniProjects/BTC.csv
+!wget -qq !wget -qq https:// #load the dataset
 print("Dataset downloaded successfully!!")
 
 """### Import required Packages"""
